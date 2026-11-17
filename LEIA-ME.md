@@ -2,6 +2,8 @@
 
 Protótipo de um "iFood sem entrega" para a cantina da faculdade.
 
+**Acesse online:** https://clickfood-ashy.vercel.app
+
 ## Como abrir
 Dê duplo clique em `index.html` ou rode um servidor estático na pasta:
 
